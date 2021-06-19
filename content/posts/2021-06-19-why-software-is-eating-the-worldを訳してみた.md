@@ -8,6 +8,11 @@ date: 2021-06-09T12:16:48.604Z
 description: 自分の言葉で簡単に訳してみました。彼は2011年にもうこんなことを書いていたなんて。びっくり
 category: blog-post
 ---
+これです
+https://a16z.com/2011/08/20/why-software-is-eating-the-world/
+
+
+<br><br>
 テクノロジー企業について、最初はバブルかと思ってたけど、まだ続いている。そして、金銭的な価値もある。ことから、著者の理論は、
 > we are in the middle of a dramatic and broad technological and economic shift in which software companies are poised to take over large swathes of the economy.
 <br>(今はテクノロジー企業が経済の大部分を占める方向に向かっている最中ではないのか？)
